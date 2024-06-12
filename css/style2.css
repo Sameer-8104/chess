@@ -1,0 +1,27 @@
+.outer_box{
+    height: 576px;
+    width: 576px;
+    border: solid 1px black;
+    margin: auto;
+}
+.row_box{
+    height: 70px;
+    width: 576px;
+    border: solid 1px black;
+}
+.black_box{
+    float: left;
+    height: 70px;
+    width: 70px;
+    border: solid 1px black;
+    background-color: black;
+}
+.white_box{
+    float: left;
+    height: 70px;
+    width: 70px;
+    border: solid 1px black;
+    background-color: white;
+    
+}
+
